@@ -10,7 +10,7 @@
 const MarcosPaulo = {
   localização: "Caetité, Bahia — Brasil",
   foco:        "Desenvolvedor Front-End",
-  status:      "Em transição de carreira",
+  status:      "Transformando conhecimento em código",
   empresa:     "MP Empreendimento",
 
   stack:  ["HTML", "CSS", "JavaScript", "React"],
@@ -19,13 +19,13 @@ const MarcosPaulo = {
   background:  "Professor de Informática — 700+ alunos",
   diferencial: "Comunico tecnologia com clareza",
 
-  mensagem: `
+  mensagem: 
     Cada projeto é uma nova missão.
     Cada bug resolvido, uma vitória.
     E cada linha de código,
     um passo mais perto do objetivo.
-  `
-};
+  
+}
 ```
 
 ---
