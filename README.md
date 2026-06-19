@@ -1,16 +1,66 @@
-## Hi there 👋
+div align="center">
 
-<!--
-**Marcos-Paulo-13/Marcos-Paulo-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Marcos Paulo
 
-Here are some ideas to get you started:
+**Desenvolvedor Front-End | MP Empreendimento | Caetité, BA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+```js
+const MarcosPaulo = {
+  localização: "Caetité, Bahia — Brasil",
+  foco:        "Desenvolvedor Front-End",
+  status:      "Em transição de carreira",
+  empresa:     "MP Empreendimento",
+
+  stack:  ["HTML", "CSS", "JavaScript", "React"],
+  extras: ["Git", "Linux", "Design", "Automações"],
+
+  background:  "Professor de Informática — 700+ alunos",
+  diferencial: "Comunico tecnologia com clareza",
+
+  mensagem: `
+    Cada projeto é uma nova missão.
+    Cada bug resolvido, uma vitória.
+    E cada linha de código,
+    um passo mais perto do objetivo.
+  `
+};
+```
+
+---
+
+## 🛠️ Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcos.paulo.devbr&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos.paulo.devbr&layout=compact&langs_count=6&theme=default"/>
+</div>
+
+---
+
+## 📡 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU_PORTFOLIO.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/SEU_NUMERO)
+
+---
+
+<div align="center">
+  <sub>Feito com foco e dedicação por Marcos Paulo</sub>
+</div>
