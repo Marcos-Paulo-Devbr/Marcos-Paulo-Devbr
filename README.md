@@ -2,7 +2,7 @@ div align="center">
 
 # Marcos Paulo
 
-**Desenvolvedor Front-End | MP Empreendimento | Bom Jesus da Lapa, BA**
+**Desenvolvedor Front-End | MP Empreendimento | Caetité, BA**
 
 </div>
 
