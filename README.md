@@ -2,7 +2,7 @@ div align="center">
 
 # Marcos Paulo
 
-**Desenvolvedor Front-End | MP Empreendimento | Caetité, BA**
+**Desenvolvedor Front-End | MP Empreendimento | Bom Jesus da Lapa, BA**
 
 </div>
 
@@ -40,15 +40,6 @@ const MarcosPaulo = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcos.paulo.devbr&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos.paulo.devbr&layout=compact&langs_count=6&theme=default"/>
-</div>
 
 ---
 
