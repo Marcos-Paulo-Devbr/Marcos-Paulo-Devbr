@@ -1,5 +1,3 @@
-div align="center">
-
 # Marcos Paulo
 
 **Desenvolvedor Front-End | MP Empreendimento | Caetité, BA**
