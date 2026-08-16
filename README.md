@@ -13,7 +13,7 @@ const MarcosPaulo = {
   status:      "Transformando conhecimento em código",
   empresa:     "MP Empreendimento",
 
-  stack:  ["HTML", "CSS", "JavaScript", "React"],
+  stack:  ["HTML", "CSS", "JavaScript"],
   extras: ["Git", "Linux", "Design", "Automações"],
 
   background:  "Professor de Informática — 700+ alunos",
